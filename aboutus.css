@@ -1,0 +1,111 @@
+﻿.rowr{
+	  background-color:#222222;
+	  height:51px;	
+}
+.O{
+	margin-top:7px;
+}
+.online{
+	color:white;
+	margin-left:80px;
+	margin-top:-30px;
+	margin-right:px;
+}
+.nav{
+	float:right;
+	margin-top:-62px;
+	margin-left:20px;
+	//background-color:#494542;
+}
+.classifids{
+	background-color:#494542;
+	height:52px;
+	width:107px;
+	//text-indent:15px;
+	text-align:center;
+	color:#6e6c6a;
+	border-spacing:10px;
+	border-right:2px #848585 solid; 
+}
+.nav .login{
+	width:75px;
+	height:52px;
+	text-align:center;
+	background-color:#494542;
+	color:#6e6c6a;
+}
+.nav .reg{
+	width:97px;
+	height:52px;
+	text-align:center;
+	background-color:#867f7f;
+	color:#f1f1f1;
+	border-right:2px #494542 solid;
+}
+.nav .post{
+	width:120px;
+	height:52px;
+	background-color:#ff8400;
+	color:#f1f1f1;
+}
+.row1{
+	background-color:#49093e;
+	//height:580px;
+}
+.about{
+	margin-top:30px;
+	margin-left:10px;
+}
+.row5{
+	height:224px;
+	background-color:#ff8400;
+}
+.follow{
+	margin-left:20px;
+	text-align:center;
+	margin-top:42px;
+	margin-right:20px;
+	//font-weight:bold;
+	color:white;
+}
+.facebook{
+	margin-left:20px;
+	margin-right:32px;
+}
+.twitter{
+	margin-right:32px;
+
+}
+.row6{
+	height:230px;
+	background-color:#333333;
+}
+.contact-us{
+	background-color:#333333;
+}
+.contact{
+	color:white;
+	text-align:left;
+	font-weight:bold;
+	margin-top:27px;
+}
+.us{
+	color:#6e6c6a;
+}
+.offer{
+	font-size:10pt;
+	font-weight:bold;
+}
+.row7{
+	height:75px;
+	background-color:#292828;
+}
+.right{
+	margin-top:31px;
+}
+
+
+.privacy{
+	margin-top:30px;
+	margin-left:10px;	
+}
